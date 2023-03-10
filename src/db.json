@@ -1,0 +1,81 @@
+{
+	"menu": [
+		{
+			"title": "Cesar salad",
+			"price": 12,
+			"url": "https://static.1000.menu/img/content/21458/-salat-cezar-s-kr-salat-cezar-s-krevetkami-s-maionezom_1501173720_1_max.jpg",
+			"category": "salads",
+			"id": 1
+		},
+		{
+			"title": "Pizza Margherita",
+			"price": 10,
+			"url": "https://cook.fnr.sndimg.com/content/dam/images/cook/fullset/2011/1/6/0/CCEV103_Margherita-Pizza_s4x3.jpg.rend.hgtvcom.616.462.suffix/1416867304309.jpeg",
+			"category": "pizza",
+			"id": 2
+		},
+		{
+			"title": "Pizza Neapolitan",
+			"price": 13,
+			"url": "https://s3-eu-west-1.amazonaws.com/straus/media/products2/9a7bd03bc8f847d4aac9ec2cc578def1.jpg",
+			"category": "pizza",
+			"id": 3
+		},
+		{
+			"title": "Greece salad",
+			"price": 8,
+			"url": "https://assets.epicurious.com/photos/576454fb42e4a5ed66d1df6b/master/pass/greek-salad.jpg",
+			"category": "salads",
+			"id": 4
+		},
+		{
+			"title": "Cowboy steak",
+			"price": 25,
+			"url": "https://i.cbc.ca/1.4491288.1516208229!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_780/cowboysteak.jpg",
+			"category": "meat",
+			"id": 5
+		},
+		{
+			"title": "Pizza Chicago",
+			"price": 9,
+			"url": "https://media-cdn.tripadvisor.com/media/photo-s/11/3c/52/58/giordano-s.jpg",
+			"category": "pizza",
+			"id": 6
+		},
+		{
+			"title": "Pizza California",
+			"price": 11,
+			"url": "https://pizzaneed.com/wp-content/uploads/2019/09/california-style-pizza.jpg",
+			"category": "pizza",
+			"id": 7
+		},
+		{
+			"title": "Pizza Detroit",
+			"price": 14,
+			"url": "https://www.grandecheese.com/wp-content/uploads/2020/04/detroit-style-pizza.jpg",
+			"category": "pizza",
+			"id": 8
+		},
+		{
+			"title": "Vinegret salad",
+			"price": 6,
+			"url": "https://ne-dieta.ru/wp-content/uploads/2017/02/final_1200-1120x770.jpg",
+			"category": "salads",
+			"id": 9
+		},
+		{
+			"title": "Rabbit Braised in Belgian Ale",
+			"price": 15,
+			"url": "https://morningchores.com/wp-content/uploads/2016/12/rr11.jpg",
+			"category": "meat",
+			"id": 10
+		},
+		{
+			"title": "Healthy Oven-Fried Pork Chops",
+			"price": 21,
+			"url": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fstatic.onecms.io%2Fwp-content%2Fuploads%2Fsites%2F44%2F2019%2F08%2F26230820%2F4969971.jpg&q=60",
+			"category": "meat",
+			"id": 11
+		}
+	]
+}

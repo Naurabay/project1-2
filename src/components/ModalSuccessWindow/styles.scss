@@ -1,0 +1,36 @@
+.modalTest {
+    height: 100px;
+    width: 500px;
+    position: fixed;
+    display: flex;
+    bottom: 0;
+    // margin-bottom: 20px;
+    left: 50%;
+    transform: translate(-50%);
+    justify-content: center;
+    background-color: #2c9f45;
+    // transition-duration: 3s;
+    // transform: translate(30px);
+    animation-name: example;
+    border: 3px solid #1e8033;
+    border-radius: 12px;
+    color: white;
+    justify-content: center;
+    align-items: center;
+    animation-duration: 1s;
+    animation-timing-function: ease;
+    animation-fill-mode: forwards;
+
+    span {
+        font-weight: 500;
+    }
+
+}
+
+@keyframes example {
+    0% {margin-bottom: 20px;
+    opacity: 0%;}
+    100% {margin-bottom: 100px;
+    opacity: 90%;
+    animation-delay: 2s;}
+  }
